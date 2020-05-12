@@ -5,7 +5,7 @@
 *Here is a link to my college website*
 [Mizzou](https://missouri.edu/)
 
-![Mizzou!](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F751125231347965953%2FTZdCDFw-_400x400.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fmizzou&tbnid=eigUrFU0_uPEUM&vet=12ahUKEwjm0L-ena_pAhUGbK0KHS3OAbgQMygAegUIARCfAg..i&docid=3s_virxxKeKl1M&w=400&h=400&q=mizzou&safe=strict&ved=2ahUKEwjm0L-ena_pAhUGbK0KHS3OAbgQMygAegUIARCfA)
+![Mizzou](https://twitter.com/Mizzou/photo)
 
 **About Me**
 
