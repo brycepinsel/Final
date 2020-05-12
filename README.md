@@ -2,7 +2,7 @@
 ## Final Project
 ### By Bryce Pinsel
 #### University of Missouri
-*Here is a link to my college website*
+*Here is a link to the University of Missouri college website*
 [Mizzou](https://missouri.edu/)
 
 ![Screenshot 2020-05-12 at 4 22 44 PM](https://user-images.githubusercontent.com/64927165/81746948-e524e280-946c-11ea-8459-375f1ab99ac6.png)
