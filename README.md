@@ -26,6 +26,7 @@ Some of my favorite things about Mizzou are:
 
  <html>
       <head>
+<p>Mizzou a great school, and I am very happy to be here. I have no regrets coming here, the enviornment has been great and I have enjoyed every minute of it. It stinks that we had to leave early because of the caronavirus, but overall freshman year was amazing. I joined greek life my second semester and that has helped me with making a lot of friends. I can't wait for three more years at this amazing school. 
       </head>
     </html>
 
